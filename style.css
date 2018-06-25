@@ -1,5 +1,11 @@
-.colorBlock {
+#blockA {
     height: 50px;
     width: auto;
     background-color: red;
+}
+
+.swapColor {
+    height: 50px;
+    width: auto;
+    background-color: yellow
 }
